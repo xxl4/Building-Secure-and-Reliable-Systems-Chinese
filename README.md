@@ -3,6 +3,9 @@ Building Secure and Reliabble Systems Google 系统架构解密 构建安全可�
 
 [English](https://google.github.io/building-secure-and-reliable-systems/raw/toc.html)
 
+# 参考
+[defense.one](https://defense.one/d/10-building-secure-reliable-systems)
+
 # 第一章 安全性与可靠性的交集
 ## 1.1 从密码和电钻谈起  
 ## 1.2 可靠性与安全性：设计注意事项  
