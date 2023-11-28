@@ -1,5 +1,5 @@
 # Building-Secure-and-Reliable-Systems-Chinese
-Building Secure and Reliabble Systems  Google 系统架构解密 构建安全可靠的系统
+Building Secure and Reliabble Systems Google 系统架构解密 构建安全可靠的系统
 
 [English](https://google.github.io/building-secure-and-reliable-systems/raw/toc.html)
 
@@ -145,11 +145,11 @@ Building Secure and Reliabble Systems  Google 系统架构解密 构建安全可
 ## 8.7 实践建议：着手点   
 ## 8.8 小结   
 # 第九章 面向恢复性的设计  
-## 9.1 要恢复什么  
-### 9.1.1 随机错误  
-### 9.1.2 意外错误  
-### 9.1.3 软件错误  
-### 9.1.4 恶意行为  
+## 9.1 恢复设计（Design for Recovery）  
+### 9.1.1 (Random Errors)随机错误  
+### 9.1.2 (Accidental Error)意外错误  
+### 9.1.3 (Software Errors)软件错误  
+### 9.1.4 (Malicious Actions)恶意行为  
 ## 9.2 恢复机制的设计原则  
 ### 9.2.1 面向快速恢复的设计（受政策监督）  
 ### 9.2.2 限制对外部时间概念的依赖  
